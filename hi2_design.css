@@ -1,0 +1,36 @@
+@charset "utf-8";
+body.page{
+	background-color: #fcf9ea;
+}
+
+img{
+	width: 101vw;
+	height: 25vh;
+	margin-left: -1vw;
+	margin-top: -5vh;
+}
+
+ul.nav-tabs {
+
+	margin-top: -7vh;
+	border: none;
+	
+}
+
+a.nav-link{
+	color: #badfdb;
+	font-size: 3vh;
+	font-family: 'Patua One', cursive;
+	border: none;
+	margin-left: 0vw;
+	background-color: none;
+	padding-left: -2vw;
+	
+}
+
+a.nav-link:hover{
+	text-decoration: none;
+	color: red;
+}
+
+
